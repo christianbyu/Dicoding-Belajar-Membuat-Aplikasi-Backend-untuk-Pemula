@@ -5,8 +5,8 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon src/index",
-    "start": "node src/index"
+    "start": "node src/index",
+    "start-dev": "nodemon src/index"
   },
   "author": "mirage",
   "license": "ISC",
