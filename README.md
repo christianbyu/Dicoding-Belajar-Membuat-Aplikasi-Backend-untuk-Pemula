@@ -1,2 +1,9 @@
-# Belajar-Membuat-Aplikasi-Back-End-untuk-Pemula
-dicoding submission untuk kelas Belajar Membuat Aplikasi Back-End untuk Pemula
+# Depedencies
+
+- node v16.20.2
+
+# How to Use
+
+```
+npm run start
+```
